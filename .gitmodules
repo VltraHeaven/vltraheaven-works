@@ -1,0 +1,9 @@
+[submodule "themes/hugo-swift-theme"]
+	path = themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
+[submodule "themes/hugograyscale"]
+	path = themes/hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
+[submodule "themes/syna"]
+	path = themes/syna
+	url = https://github.com/okkur/syna.git

@@ -1,0 +1,6 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Vltraheaven Blog"
+    folder = "myblog"
