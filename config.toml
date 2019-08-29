@@ -7,25 +7,11 @@ theme = "hugo-artists-theme"
 
 [params]
 
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
-
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
 	name = "Vltraheaven Works"
 	description = "Bridging the gap between people and technology."
 
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
 	email = "contact@vltraheaven.io"
 
 
@@ -38,10 +24,6 @@ theme = "hugo-artists-theme"
 		title = "VltraHeaven Works"
 		shortBio = "Development // Security // Administration"
 
-
-	# About section
-	#
-	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About"
 		bio = "**Subject matter expertise without the ego.** As technology continues to grow in variety and complexity, my focus remains translating enterprise-class tech solutions for the every-person."
@@ -51,19 +33,19 @@ theme = "hugo-artists-theme"
 			value = 10
 
 		[[params.about.skills]]
-			name = "Web Development"
+			name = "Continuous Integration"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Linux Administration"
+			name = "Linux Server Administration"
 			value = 8
 
 		[[params.about.skills]]
-			name = "Windows Administraton"
+			name = "Windows Server Administraton"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Software Development"
+			name = "Version Control"
 			value = 5
 
 		[[params.about.skills]]
@@ -71,11 +53,11 @@ theme = "hugo-artists-theme"
 			value = 7
 
 		[[params.about.skills]]
-			name = "Vulnerability Assessment"
+			name = "Containers/Virtualization"
 			value = 8
 
 		[[params.about.skills]]
-			name = "Penetration Testing"
+			name = "Vulnerability Testing"
 			value = 6
 
 	# Contact secion
