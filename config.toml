@@ -22,7 +22,7 @@ theme = "hugo-artists-theme"
 	# But keep the original filename!
 	[params.header]
 		title = "VltraHeaven Works"
-		shortBio = "Development // Security // Administration"
+		shortBio = "Computer Repair // DevOps // Programming // System Administration"
 
 	[params.about]
 		title = "About"
